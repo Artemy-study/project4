@@ -11,6 +11,7 @@ void Out_Rez(double func, double x, double a, double b, double h, int n);
 
 int main()
 {
+	cout << "Hello world\n";
 	double a, b, h;
 	int i, n;
 	cout << "Enter the variables a, b, h, n: " << endl;
