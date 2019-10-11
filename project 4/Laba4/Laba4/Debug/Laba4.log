@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Study\OAIP\Laba4\Laba4\Source.cpp(22,24): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Study\OAIP\Laba4\Laba4\Source.cpp(23,24): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Study\OAIP\Laba4\Laba4\Source.cpp(24,25): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+  Laba4.vcxproj -> D:\Study\OAIP\Laba4\Debug\Laba4.exe
